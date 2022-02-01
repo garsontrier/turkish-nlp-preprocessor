@@ -18,7 +18,7 @@ This is a basic text preprocessing tool for Turkish. It includes the following f
       - Letter case transformation
       - Accent normalization
       - Deascification
-      - Spelling error correction (up to 1 Damerau–Levenshtein distance away)
+      - Spelling error correction (up to 1 Damerau–Levenshtein distance)
 5) Stopword Removal
     * Static stopword removal
     * Dynamic stopword removal
