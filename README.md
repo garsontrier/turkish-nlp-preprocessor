@@ -1,7 +1,7 @@
 # turkish-nlp-preprocessor
 
 This project was implemented in December 2020 as an assignment for Natural Language Processing Course in Bogazici University.
-This a two person project: Mansur Yeşilbursa and Güray Baydur
+This a two person project and implemented by Mansur Yeşilbursa and Güray Baydur
 
 This is a basic text preprocessing tool for Turkish. It includes the following functionalities with different methods:
 1) Tokenization
@@ -41,3 +41,5 @@ There are many auxilary files accompanying the source code. The program highly r
 There is a missing auxilary file that couldn't be uploaded to this repository due to size concerns, but it will be generated once normalization applied. Execution may take long  to finish as the program generates a corpus for spelling correction. But it is necessary since there is no publicly available spelling correction datasets for Turkish.
 
 3 different datasets were used in the project. A subset of these datasets can be found in the dataset folder. '42 bin haber' dataset is not available but it is not required for program to run as long as auxilary files are present.
+
+main.py allows user to test the functionalities of the program through a simple console-based GUI. 
