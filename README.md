@@ -29,7 +29,7 @@ It is implemented solely for educational purposes.
 A detailed report about the implementation and the methodology can be read at [here](https://docs.google.com/document/d/1JIIki6IpFYcaYSIHpJ4qsKuXGmspikYfwMoJbbsNmYA/edit?usp=sharing)
 
 Python 3.6
-# Required Libraries
+# Dependencies
 * matplotlib
 * numpy
 * scikit-learn
